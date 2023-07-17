@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "BRYANT IMPORTS",
-    src: "bryant-imports.jpg",
+    src: "bryant-import.jpg",
   },
 ];
 
