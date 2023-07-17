@@ -24,8 +24,9 @@
 }
 
 .intro h1{
-    color: white;
+    color: #e5dcd9;
     font-size: 7vw;
+    font-weight: 400;
     z-index: 3;
     text-align: center;
     white-space: nowrap;
